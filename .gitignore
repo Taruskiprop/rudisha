@@ -1,0 +1,47 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+*.darttool
+*.packages
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.config.dart
+node_modules/
+
+# Build outputs
+android/app/build/
+android/.gradle/
+android/local.properties
+ios/build/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+macos/build/
+linux/build/
+windows/build/
+web/build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.temp
